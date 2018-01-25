@@ -1,0 +1,25 @@
+{
+  "name": "vue-bootstrap",
+  "version": "0.0.1",
+  "description": "The bootstrap4 wrapper for vue2.x.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HstarComponents/vue-bootstrap.git"
+  },
+  "keywords": [
+    "vue",
+    "vue2",
+    "bootstrap",
+    "bootstrap4"
+  ],
+  "author": "Jay.M.Hu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HstarComponents/vue-bootstrap/issues"
+  },
+  "homepage": "https://github.com/HstarComponents/vue-bootstrap#readme"
+}
